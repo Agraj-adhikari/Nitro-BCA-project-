@@ -1,3 +1,26 @@
+# Nitro-BCA Project
+
+**Status:** Beginner / Learning Project (1st Semester)  
+**Technologies:** HTML, CSS  
+
+## About
+This project is a simple HTML and CSS website created as part of my 1st-semester BCA coursework.  
+It is a learning exercise to practice basic web development skills, including page structure, styling, and layout.  
+
+## Features
+- Basic HTML structure with headings, paragraphs, and links  
+- CSS styling for colors, fonts, and layout  
+- Responsive design is minimal; primarily desktop-focused  
+
+## Purpose
+This project is intended to demonstrate early learning and experimentation with frontend development.  
+It is **not a fully responsive or production-ready project**, but serves as a foundation for future, more advanced projects.  
+
+## Notes
+- For educational purposes only  
+- Designed to show progress as a beginner web developer  
+
+
 ![Screenshot 2025-02-16 130540](https://github.com/user-attachments/assets/af336b96-c0c3-4e17-88f2-f037f1900aad)
 ![Screenshot 2025-02-16 130556](https://github.com/user-attachments/assets/8f882463-fb7e-46b7-8eb0-f1c8507850ea)
 ![Screenshot 2025-02-16 130643](https://github.com/user-attachments/assets/10b2bd08-2932-4d6f-9ad7-cd977f8350b3)
